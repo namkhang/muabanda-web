@@ -1,0 +1,91 @@
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.card{
+  border: none;
+  text-align: left;
+  overflow: hidden;
+}
+.card-body{
+  padding-left: 0 !important;
+}
+.card-text{
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #c0392b;
+}
+.card-img-top:hover{
+  transform: scale(1.2); 
+  overflow: hidden;
+ opacity: 0.5;
+ animation:2s;
+  transition: filter .6s, opacity .6s, transform .6s, box-shadow .3s, -webkit-filter .6s, -webkit-transform .6s, -webkit-box-shadow .3s;
+}
+.breadcrumb{
+  background-color: transparent;
+}
+.form-control{
+  box-shadow: none !important;
+}
+.form{
+  background-color: whitesmoke;
+}
+.zalo{
+  background-size: cover;
+  top:65%;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 3px;
+  border-radius: 99px;
+  position: fixed;
+  width: 120px;
+  height: 80px;
+  overflow: hidden;
+  background-image: url(https://firebasestorage.googleapis.com/v0/b/capstone2-24fd3.appspot.com/o/images%2Fzaloo-removebg-preview.png?alt=media&token=619390fb-bdf3-43f5-aba9-cfb3d7949999);
+}
+.zalo2{
+background-size: cover;
+top:80%;
+left: 25px;
+border-style: solid;
+border-color: transparent;
+border-width: 3px;
+border-radius: 99px;
+position: fixed;
+width: 87px;
+height: 87px;
+overflow: hidden;
+background-image: url(https://firebasestorage.googleapis.com/v0/b/capstone2-24fd3.appspot.com/o/images%2Fphone-removebg-preview.png?alt=media&token=9947873d-2a70-41d9-b3ca-4025a77d0606);
+
+}
