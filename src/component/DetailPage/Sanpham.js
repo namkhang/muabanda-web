@@ -68,7 +68,7 @@ function Product({item ,title , data}) {
           </div>
         </div>
 
-        <CardforAdmin title={title} data={data} />
+        <Card title={title} data={data} />
 
       </div>
       <Contact/>
