@@ -19,7 +19,7 @@ function MenuforAdmin(props) {
 
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-            <a className="navbar-brand" href="/admin">Xưởng đá Cao Anh</a>
+            <a className="navbar-brand" href="/admin">Cơ sở Điêu khắc đá mỹ nghệ Huỳnh Bá Tiệm</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon" />
             </button>

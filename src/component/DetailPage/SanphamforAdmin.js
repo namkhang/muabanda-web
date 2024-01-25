@@ -83,8 +83,8 @@ function ProductforAdmin({item ,title , data}) {
               </div>
               <p><b>- </b>Quý khách sẽ được tư vấn nhiệt tình kĩ càng về kích thước, loại đá, giá cả,... phù hợp với yêu cầu nơi đặt tượng.</p>
               <p><b>- </b><a href='https://www.messenger.com/t/100035577761788' target='_blank'>Messenger Đá mỹ nghệ Cao Anh</a></p>
-              <p><b>- </b> <a href='tel:0799342172'>0799342172 Mr Khang</a> <a href='https://zalo.me/0799342172'>(zalo)</a></p>
-              <p><b>- </b> <a href='https://zalo.me/0799342172'>(zalo)</a></p>
+              <p><b>- </b> <a href='tel:0905268464'>0905268464 - Huỳnh Bá Tiệm</a> <a href='https://zalo.me/0905268464'>(zalo)</a></p>
+              <p><b>- </b> <a href='https://zalo.me/0905268464'>(zalo)</a></p>
             </div>
           </div>
         </div>

@@ -6,13 +6,13 @@ function Footer() {
                 <div className='row p-3'>
                     <div className='col-md-4'>
                         <p>
-                            Đá mỹ nghệ CAO ANH là cơ sở sản xuất tượng đá mỹ nghệ hình thành và phát triển từ làng đá NON NƯỚC, Ngũ Hành Sơn, Đà Nẵng.
+                        Cơ sở điêu khắc đá huỳnh bá tiệm chuyên điêu khắc các sản phẩm đá mỹ nghệ theo yêu cầu khách hàng như Tượng Phật Di Lặc, Tượng Phật A Di Đà, Tượng Phật Thích Ca và các sản phẩm điêu khắc đá khác.
                         </p>
                         <p>
-                            496 Trường Sa, Ngũ Hành Sơn, Đà Nẵng.
+                        Địa chỉ: 144 Nguyễn Duy Trinh, phường Hoà Hải, quận Ngũ Hành Sơn, Đà Nẵng
                         </p>
                         <p>
-                            Làng đá NON NƯỚC, Ngũ Hành Sơn, Đà Nẵng.
+                        Xưởng sản xuất: Cơ sở điêu khắc đá Huỳnh Bá Tiệm, LÔ 52-53 Hoàng Văn Lai - Làng Nghề Đá Mỹ Nghệ Non Nước, Đà Nẵng.
                         </p>
                     </div>
                     <div className='col-md-3'>
@@ -26,10 +26,10 @@ function Footer() {
                     <div className='col-md-5'>
                         <p>
                             <h5>
-                                0799 342 172 / 0799 342 172
+                            0905268464 - Huỳnh Bá Tiệm
 
                             </h5>
-                            Gọi để được tư vấn miễn phí.
+                            Email: huynhbatiem@gmail.com
                         </p>
                     </div>
                 </div>
